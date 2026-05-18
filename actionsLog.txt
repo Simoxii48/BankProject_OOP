@@ -1,0 +1,158 @@
+test#//#Login#//#2026/5/4-16:37:7
+test#//#Show Clients#//#2026/5/4-16:37:9
+test#//#Add Client#//#2026/5/4-16:37:11
+test#//#Update Client#//#2026/5/4-16:37:17
+test#//#Delete Client#//#2026/5/4-16:37:19
+test#//#Update Client#//#2026/5/4-16:38:1
+test#//#Delete Client#//#2026/5/4-16:38:2
+test#//#Find Client#//#2026/5/4-16:38:5
+test#//#Transactions Menu#//#2026/5/4-16:38:11
+test#//#Deposit Screen#//#2026/5/4-16:38:13
+test#//#Transactions Menu#//#2026/5/4-16:38:14
+test#//#Withdrawal Screen#//#2026/5/4-16:38:15
+test#//#Transactions Menu#//#2026/5/4-16:38:15
+test#//#Transfer Screen#//#2026/5/4-16:38:16
+test#//#Transactions Menu#//#2026/5/4-16:38:16
+test#//#Total Balances#//#2026/5/4-16:38:17
+test#//#Transactions Menu#//#2026/5/4-16:38:19
+test#//#Transactions Log Screen#//#2026/5/4-16:38:19
+test#//#Transactions Menu#//#2026/5/4-16:38:20
+test#//#Manage Users Menu#//#2026/5/4-16:38:23
+test#//#List Users#//#2026/5/4-16:38:42
+test#//#Manage Users Menu#//#2026/5/4-16:38:42
+test#//#Add New User#//#2026/5/4-16:38:43
+test#//#Manage Users Menu#//#2026/5/4-16:38:44
+test#//#Update User#//#2026/5/4-16:38:44
+test#//#Manage Users Menu#//#2026/5/4-16:38:45
+test#//#Delete User#//#2026/5/4-16:38:46
+test#//#Manage Users Menu#//#2026/5/4-16:38:46
+test#//#Find User#//#2026/5/4-16:38:47
+test#//#Manage Users Menu#//#2026/5/4-16:38:54
+test#//#Revoke User Permission#//#2026/5/4-16:38:56
+test#//#Manage Users Menu#//#2026/5/4-16:38:57
+test#//#Grant User Permission#//#2026/5/4-16:38:58
+test#//#Manage Users Menu#//#2026/5/4-16:38:59
+test#//#Lock User#//#2026/5/4-16:38:59
+test#//#Manage Users Menu#//#2026/5/4-16:39:0
+test#//#Unlock User#//#2026/5/4-16:39:2
+test#//#Manage Users Menu#//#2026/5/4-16:39:3
+test#//#View Actions Log#//#2026/5/4-16:39:5
+test#//#Manage Users Menu#//#2026/5/4-16:39:6
+test#//#Logout#//#2026/5/4-16:39:10
+Admin#//#Login#//#2026/5/4-16:40:34
+Admin#//#Manage Users Menu#//#2026/5/4-16:40:35
+Admin#//#View Actions Log#//#2026/5/4-16:40:38
+Admin#//#Manage Users Menu#//#2026/5/4-16:42:25
+Admin#//#Login#//#2026/5/4-16:42:38
+Admin#//#Manage Users Menu#//#2026/5/4-16:42:39
+Admin#//#View Actions Log#//#2026/5/4-16:42:41
+Admin#//#Manage Users Menu#//#2026/5/4-16:43:13
+Admin#//#Login#//#2026/5/4-16:43:24
+Admin#//#Manage Users Menu#//#2026/5/4-16:43:26
+Admin#//#View Actions Log#//#2026/5/4-16:43:27
+Admin#//#Manage Users Menu#//#2026/5/4-16:46:34
+Admin#//#Login#//#2026/5/4-16:54:15
+Admin#//#Login#//#2026/5/4-16:54:52
+Admin#//#Login#//#2026/5/4-17:35:57
+Admin#//#Login#//#2026/5/4-17:37:20
+Admin#//#Login#//#2026/5/4-17:38:24
+Admin#//#Login#//#2026/5/4-17:38:52
+test#//#Login#//#2026/5/4-18:34:2
+test#//#Login#//#2026/5/4-18:35:8
+test#//#Login#//#2026/5/4-18:35:43
+test#//#Login#//#2026/5/4-18:37:8
+test#//#Login#//#2026/5/4-18:38:7
+test#//#Login#//#2026/5/4-18:41:7
+test#//#Login#//#2026/5/4-18:42:30
+test#//#Login#//#2026/5/4-18:43:17
+test#//#Login#//#2026/5/4-18:44:15
+test#//#Login#//#2026/5/4-18:47:7
+test#//#Login#//#2026/5/4-18:49:16
+test#//#Login#//#2026/5/4-18:49:49
+test#//#Login#//#2026/5/5-11:41:49
+test#//#Login#//#2026/5/5-12:29:58
+test#//#Login#//#2026/5/5-12:31:40
+test#//#Login#//#2026/5/5-12:36:27
+test#//#Login#//#2026/5/5-12:37:31
+test#//#Login#//#2026/5/5-12:39:53
+test#//#Login#//#2026/5/5-12:41:15
+test#//#Login#//#2026/5/5-12:44:18
+test#//#Login#//#2026/5/5-17:37:33
+test#//#Login#//#2026/5/5-17:39:31
+test#//#Login#//#2026/5/5-17:40:56
+test#//#Login#//#2026/5/5-17:44:35
+test#//#Login#//#2026/5/5-17:51:27
+test#//#Login#//#2026/5/5-17:52:51
+test#//#Login#//#2026/5/5-17:53:40
+test#//#Login#//#2026/5/5-17:55:53
+test#//#Login#//#2026/5/5-17:58:38
+test#//#Login#//#2026/5/5-18:2:38
+test#//#Login#//#2026/5/5-18:40:49
+test#//#Login#//#2026/5/5-18:41:26
+test#//#Login#//#2026/5/5-18:42:11
+test#//#Login#//#2026/5/5-18:43:7
+test#//#Login#//#2026/5/5-18:46:11
+test#//#Logout#//#2026/5/5-18:46:40
+test#//#Login#//#2026/5/6-14:52:47
+test#//#Show Clients#//#2026/5/6-14:52:48
+test#//#Login#//#2026/5/6-15:15:31
+test#//#Show Clients#//#2026/5/6-15:15:33
+test#//#Add Client#//#2026/5/6-15:15:43
+test#//#Update Client#//#2026/5/6-15:15:49
+test#//#Delete Client#//#2026/5/6-15:15:51
+test#//#Find Client#//#2026/5/6-15:15:55
+test#//#Logout#//#2026/5/6-15:16:10
+Admin#//#Login#//#2026/5/6-15:16:18
+Admin#//#Add Client#//#2026/5/6-15:16:21
+Admin#//#Login#//#2026/5/6-15:21:54
+Admin#//#Add Client#//#2026/5/6-15:21:56
+Admin#//#Login#//#2026/5/6-15:23:35
+Admin#//#Add Client#//#2026/5/6-15:23:37
+Admin#//#Show Clients#//#2026/5/6-15:24:9
+Admin#//#Update Client#//#2026/5/6-15:24:26
+Admin#//#Login#//#2026/5/6-15:28:26
+Admin#//#Update Client#//#2026/5/6-15:28:28
+test#//#Login#//#2026/5/6-15:31:57
+test#//#Find Client#//#2026/5/6-15:32:0
+test#//#Login#//#2026/5/7-15:33:14
+test#//#Show Clients#//#2026/5/7-15:33:16
+test#//#Add Client#//#2026/5/7-15:33:18
+test#//#Logout#//#2026/5/7-15:33:23
+Admin#//#Login#//#2026/5/7-15:33:31
+Admin#//#Manage Users Menu#//#2026/5/7-15:33:34
+Admin#//#View Actions Log#//#2026/5/7-15:33:38
+Admin#//#Manage Users Menu#//#2026/5/7-15:33:51
+Admin#//#Logout#//#2026/5/7-15:33:57
+Admin#//#Login#//#2026/5/7-15:45:23
+Admin#//#Manage Users Menu#//#2026/5/7-15:45:26
+Admin#//#Unlock User#//#2026/5/7-15:45:30
+Admin#//#Manage Users Menu#//#2026/5/7-15:45:35
+Admin#//#Logout#//#2026/5/7-15:45:40
+test#//#Login#//#2026/5/7-15:45:59
+Admin#//#Login#//#2026/5/7-17:29:24
+Admin#//#Show Clients#//#2026/5/7-17:29:28
+Admin#//#Add Client#//#2026/5/7-17:29:34
+Admin#//#Show Clients#//#2026/5/7-17:30:15
+Admin#//#Find Client#//#2026/5/7-17:30:21
+Admin#//#Delete Client#//#2026/5/7-17:30:28
+Admin#//#Total Balances#//#2026/5/7-17:30:46
+Admin#//#Transactions Log Screen#//#2026/5/7-17:32:8
+Admin#//#List Users#//#2026/5/7-17:32:17
+Admin#//#Find User#//#2026/5/7-17:33:10
+Admin#//#Revoke User Permission#//#2026/5/7-17:33:16
+Admin#//#List Users#//#2026/5/7-17:34:28
+Admin#//#List Users#//#2026/5/7-17:34:35
+Admin#//#Unlock User#//#2026/5/7-17:34:41
+Admin#//#List Users#//#2026/5/7-17:34:47
+Admin#//#View Actions Log#//#2026/5/7-17:35:2
+Admin#//#Logout#//#2026/5/7-17:35:13
+test#//#Login#//#2026/5/7-17:35:32
+test#//#Logout#//#2026/5/7-17:35:33
+Admin#//#Login#//#2026/5/7-18:20:13
+Admin#//#Login#//#2026/5/15-18:12:7
+Admin#//#Show Clients#//#2026/5/15-18:12:15
+Admin#//#Add New User#//#2026/5/15-18:14:0
+Admin#//#Logout#//#2026/5/15-18:16:36
+Adbou#//#Login#//#2026/5/15-18:17:5
+Adbou#//#Show Clients#//#2026/5/15-18:17:15
+Adbou#//#Add Client#//#2026/5/15-18:17:18
